@@ -1,0 +1,11 @@
+body{
+    background-color: darkseagreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#title_h_one{
+    color: gold;
+    font-size: 50px;
+}
+#regular_names{
+    color: midnightblue;
+}
